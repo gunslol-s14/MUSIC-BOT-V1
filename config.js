@@ -2,7 +2,7 @@ module.exports = {
   ownerID: '1272239604560564234',
   token: process.env.TOKEN,
   embedColor: '#FF0000',
-  geniusToken: '0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf',
+  geniusToken: 'MTI3MjIzOTYwNDU2MDU2NDIzNA.GpDxNB.nswHkhB6xb_QTc7H22q4p9r-R3MhVbQS9-wpbw',
   language: 'en',
   // Language: English (en)
 // Language: Japanese (jp)
